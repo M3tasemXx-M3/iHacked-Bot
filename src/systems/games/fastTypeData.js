@@ -1,0 +1,15 @@
+module.exports = [
+  "JavaScript is awesome",
+  "Discord bots are fun",
+  "Study hard and code smart",
+  "SQLite is lightweight",
+  "Nodejs powers this bot",
+  "Practice makes perfect",
+  "Coding is creativity",
+  "Always read documentation",
+  "Knowledge is power",
+  "Never stop learning",
+  "Programming is a useful skill",
+  "Fast typing wins games",
+  "Success comes from consistency",
+];

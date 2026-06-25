@@ -1,0 +1,20 @@
+[
+  {
+    "id": "math_rookie",
+    "name": "🧠 Math Rookie",
+    "description": "Win 10 Math Battles",
+    "required": 10
+  },
+  {
+    "id": "math_master",
+    "name": "⚡ Math Master",
+    "description": "Win 100 Math Battles",
+    "required": 100
+  },
+  {
+    "id": "einstein",
+    "name": "👑 Einstein",
+    "description": "Win 500 Math Battles",
+    "required": 500
+  }
+]

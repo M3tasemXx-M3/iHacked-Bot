@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS warnings (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  user_id TEXT,
+  reason TEXT
+);
